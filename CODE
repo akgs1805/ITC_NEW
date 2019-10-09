@@ -1,10 +1,8 @@
 #include<iostream>
-#include<conio.h>
 #include<string.h>
-#include<stdio.h>
 using namespace std;
 
-   //==========================Base Class========================//
+   //base class
 
      class iTax
    {
@@ -176,7 +174,7 @@ using namespace std;
    };
 
 
-   //=======================Main Function=======================//
+   //Main Function
 
    int main()
    {
@@ -315,4 +313,4 @@ using namespace std;
     return 0;
    }
 
-  //=========================End Of Main Function=========================/
+  //End Of Main 
